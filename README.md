@@ -55,43 +55,6 @@ This project aims to predict whether a patient has diabetes using the **Pima Ind
 
 ---
 
-## 🚀 How to Run Locally
-
-1. **Clone this Repository**:
-   ```bash
-   git clone https://github.com/Dishadubedi/Diabetes-Prediction.git
-````
-
-2. **Open the Notebook**:
-
-   * Open `Diabetes_Prediction.ipynb` in **Google Colab** or **Jupyter Notebook**.
-
-3. **Run the Code**:
-
-   * Make sure the required Python libraries (`pandas`, `numpy`, `sklearn`, etc.) are installed.
-
----
-
-## 📎 Open in Google Colab
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dishadubedi/Diabetes-Prediction/blob/main/Diabetes_Prediction.ipynb)
-
----
-
-## ✅ Status
-
-* ✅ Initial version uploaded from Google Colab.
-* ✅ Includes Colab link for quick access.
-
----
-
-## 📌 Future Work
-
-* Hyperparameter tuning using GridSearchCV
-* Deploy the model using Flask or Streamlit
-* Add visualizations for model comparison
-
----
 
 ## ✍️ Author
 
